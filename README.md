@@ -1,20 +1,15 @@
-### Hi there 👋
+# 김용후 Yonghu Kim
 
-<!--
-**who-is-hu/who-is-hu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Contact
+- 📫 Email : dydgndlaek97@gmail.com
+- 📡 Blog : http://blog.naver.com/dydwlsdydgn/
 
-Here are some ideas to get you started:
+### Technical Stacks
+- Language: <img src="https://img.shields.io/badge/Java-0c8fc7?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> 
+- DevOps : <img src="https://img.shields.io/badge/Docker-34c6eb?style=flat-square&logo=Docker&logoColor=white"/> <img src="https://img.shields.io/badge/Jenkins-blue?style=flat-square&logo=Jenkins&logoColor=white"/>
+- framework: <img src="https://img.shields.io/badge/Spring-brightgreen?style=flat-square&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/Express-lightgrey?style=flat-square&logo=Express&logoColor=white"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=who-is-hu)](https://github.com/anuraghazra/github-readme-stats).   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=who-is-hu)](https://github.com/anuraghazra/github-readme-stats)
- -->
+### Collaborate Skills
+- Design : <img src="https://img.shields.io/badge/Figma-eb8634?style=flat-square&logo=Figma&logoColor=white"/>
+- Develop : <img src="https://img.shields.io/badge/GitHub-756f6b?style=flat-square&logo=GitHub&logoColor=white"/>
+- Task Management : <img src="https://img.shields.io/badge/Asana-f54222?style=flat-square&logo=Asana&logoColor=white"/>
