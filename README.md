@@ -2,7 +2,6 @@
 
 ### Contact
 - 📫 Email : dydgndlaek97@gmail.com
-- 📡 Blog : http://blog.naver.com/dydwlsdydgn/
 - 📡 Blog : https://dragonlab.tistory.com/
 - Article : https://medium.com/@who-is-hu
 
