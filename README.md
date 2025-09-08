@@ -1,9 +1,5 @@
 # 김용후 Yonghu Kim
 
-### Contact
-- 📫 Email : dydgndlaek97@gmail.com
-- 📡 Blog : https://dragonlab.tistory.com/
-
 <!-- ### Tech Stack
 - Language: <img src="https://img.shields.io/badge/Java-0c8fc7?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> 
 - DevOps : <img src="https://img.shields.io/badge/Docker-34c6eb?style=flat-square&logo=Docker&logoColor=white"/> <img src="https://img.shields.io/badge/Jenkins-blue?style=flat-square&logo=Jenkins&logoColor=white"/>
